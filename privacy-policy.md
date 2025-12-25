@@ -1,14 +1,14 @@
-# Política de Privacidad de TikNexus
+# Política de Privacidad de ViralNexus
 
 Fecha de última actualización: 17 de noviembre de 2025
 
-En TikNexus, su privacidad es nuestro pilar fundamental. Esta política explica qué información manejamos, cómo la almacenamos y cómo la utilizamos para potenciar su crecimiento como creador.
+En ViralNexus, su privacidad es nuestro pilar fundamental. Esta política explica qué información manejamos, cómo la almacenamos y cómo la utilizamos para potenciar su crecimiento como creador.
 
 Nuestra filosofía es simple: Sus datos personales y credenciales de acceso se quedan en su dispositivo. Los datos de rendimiento de sus videos se utilizan para generar análisis, tanto localmente como en la nube, pero nunca se venden ni se comparten.
 
 **1. La Arquitectura Híbrida: Local y Nube**
 
-TikNexus utiliza una arquitectura híbrida para equilibrar la máxima privacidad con el poder de la inteligencia artificial avanzada.
+ViralNexus utiliza una arquitectura híbrida para equilibrar la máxima privacidad con el poder de la inteligencia artificial avanzada.
 
 *A. Lo que se Almacena 100% Localmente en su Dispositivo*
 
