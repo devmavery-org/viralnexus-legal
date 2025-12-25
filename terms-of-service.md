@@ -1,18 +1,18 @@
-# Términos y Condiciones de TikNexus
+# Términos y Condiciones de ViralNexus
 
 Fecha de última actualización: 17 de noviembre de 2025
 
-Bienvenido a TikNexus ("la App", "nosotros"). Al descargar, instalar o utilizar nuestra aplicación móvil, usted ("el Usuario") acepta estar sujeto a los siguientes Términos y Condiciones ("Términos").
+Bienvenido a ViralNexus ("la App", "nosotros"). Al descargar, instalar o utilizar nuestra aplicación móvil, usted ("el Usuario") acepta estar sujeto a los siguientes Términos y Condiciones ("Términos").
 
 **1. Descripción del Servicio**
 
-TikNexus es una aplicación móvil diseñada para ayudar a los creadores de contenido de TikTok a analizar su rendimiento y obtener ideas estratégicas. El servicio requiere una conexión a su cuenta de TikTok para descargar las métricas de sus videos y proporcionar análisis y recomendaciones generadas por inteligencia artificial (IA).
+ViralNexus es una aplicación móvil diseñada para ayudar a los creadores de contenido de TikTok a analizar su rendimiento y obtener ideas estratégicas. El servicio requiere una conexión a su cuenta de TikTok para descargar las métricas de sus videos y proporcionar análisis y recomendaciones generadas por inteligencia artificial (IA).
 
 **2. Conexión a TikTok y Fuente de Datos**
 
-Para utilizar la App, usted debe autorizar a TikNexus a acceder a su cuenta de TikTok a través del SDK oficial de TikTok. Los permisos solicitados se limitan a userInfoBasic (para verificar su cuenta) y videoList (para acceder a la lista de sus videos públicos y sus métricas).
+Para utilizar la App, usted debe autorizar a ViralNexus a acceder a su cuenta de TikTok a través del SDK oficial de TikTok. Los permisos solicitados se limitan a userInfoBasic (para verificar su cuenta) y videoList (para acceder a la lista de sus videos públicos y sus métricas).
 
-TikNexus actúa únicamente como un cliente que interactúa con la API oficial de TikTok. No estamos afiliados, asociados, autorizados, respaldados ni conectados de ninguna manera oficial con TikTok Inc.
+ViralNexus actúa únicamente como un cliente que interactúa con la API oficial de TikTok. No estamos afiliados, asociados, autorizados, respaldados ni conectados de ninguna manera oficial con TikTok Inc.
 
 **3. Arquitectura de Datos y Privacidad**
 
@@ -20,7 +20,7 @@ Nuestra arquitectura está diseñada con la privacidad como pilar fundamental, c
 
 *3.1. Almacenamiento 100% Local (Sus Datos Personales)*
 
-Los siguientes datos de su cuenta se descargan y almacenan exclusiva y permanentemente en la base de datos local de su dispositivo (tiknexus_db.sqlite). Estos datos nunca abandonan su dispositivo:
+Los siguientes datos de su cuenta se descargan y almacenan exclusiva y permanentemente en la base de datos local de su dispositivo (viralnexus_db.sqlite). Estos datos nunca abandonan su dispositivo:
 
 Tokens de Autenticación: Sus tokens de acceso y actualización de TikTok (AuthTokens).
 
@@ -62,7 +62,7 @@ Usted acepta no utilizar la App para ningún propósito ilegal o no autorizado. 
 
 La App se proporciona "tal cual". Si bien nos esforzamos por proporcionar análisis precisos y útiles, las recomendaciones generadas por la IA son sugerencias y no garantizan el éxito, el crecimiento de seguidores ni la viralidad del contenido.
 
-TikNexus no será responsable de ninguna pérdida de datos, interrupción del servicio (incluidas las fallas de la API de TikTok) o cualquier daño directo o indirecto que surja del uso o la incapacidad de usar la App.
+ViralNexus no será responsable de ninguna pérdida de datos, interrupción del servicio (incluidas las fallas de la API de TikTok) o cualquier daño directo o indirecto que surja del uso o la incapacidad de usar la App.
 
 **7. Modificaciones a los Términos**
 
